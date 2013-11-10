@@ -1,0 +1,18 @@
+{
+  "author": "Daniel Hastings Schumann",
+  "name": "coffee-class-orm",
+  "description": "Coffee-script class as an orm",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/danschumann/coffee-class-orm"
+  },
+  "main": "./lib/index",
+  "dependencies": {
+    "underscore": ">=1.5.1",
+    "colors": "0.6.1"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
