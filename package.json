@@ -2,7 +2,7 @@
   "author": "Daniel Hastings Schumann",
   "name": "coffee-class-orm",
   "description": "Coffee-script class as an orm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": "https://github.com/danschumann/coffee-class-orm"
   },
